@@ -1,0 +1,9 @@
+replicaCount: 3
+
+image:
+  repository: myapp
+  tag: v1
+  pullPolicy: IfNotPresent
+
+service:
+  port: 8080
