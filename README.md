@@ -10,6 +10,7 @@
 
 ```
 <asbg-01>/
+├── app.py
 ├── Dockerfile
 └── charts/myapp/
     ├── Chart.yaml
